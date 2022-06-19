@@ -31,7 +31,7 @@ python mosaic.py
 
 The network Architecture is shown as bellow:
 <p align="left">
-<img src="Network_Architecture.png" height=350>
+<img src="Network_Architecture.png" height=400>
 </p>  
 
 ###  Training
@@ -56,7 +56,7 @@ python evaluate.py
 
 * Comparison experiments results with SOTA detection models:
 <p align="left">
-<img src="compare.png" height=350>
+<img src="compare.png" height=300>
 </p>  
 
 ## Optimal Trapping Points Determination
@@ -76,3 +76,17 @@ python ellipse_detection.py
 |   Hough Transform   |      23758       |      83.61       |       5.341      |
 
 where "EED" represents the effective ellipse detected; "EDR" represents the effective detection rate, and "FPR" represents the false positive rate.
+
+## Real-time Detection
+
+To real-time detection, run this command:
+```
+python detect.py
+```
+
+### Demo
+
+https://user-images.githubusercontent.com/67178826/174484157-f32c83e8-e4c0-447e-9bf4-2b041880afd0.mp4
+
+
+
