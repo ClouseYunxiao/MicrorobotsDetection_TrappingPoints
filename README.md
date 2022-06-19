@@ -86,6 +86,8 @@ python detect.py
 
 ### Demo
 
+A demo with microrobot and ellpise detected is released as follows:
+
 https://user-images.githubusercontent.com/67178826/174484157-f32c83e8-e4c0-447e-9bf4-2b041880afd0.mp4
 
 
